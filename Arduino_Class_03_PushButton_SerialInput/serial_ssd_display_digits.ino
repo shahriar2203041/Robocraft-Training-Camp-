@@ -83,7 +83,7 @@ void show7() {
 void show8() {
   digitalWrite(9, HIGH);  digitalWrite(10, HIGH); digitalWrite(3, HIGH);
   digitalWrite(5, HIGH);  digitalWrite(12, HIGH);
-  digitalWrite(6, HIGH);  digiAtalWrite(4, HIGH);
+  digitalWrite(6, HIGH);  digitalWrite(4, HIGH);
 }
 
 void show9() {
