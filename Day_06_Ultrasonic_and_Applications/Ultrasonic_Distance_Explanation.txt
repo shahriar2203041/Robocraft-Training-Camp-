@@ -1,0 +1,8 @@
+ Why distance = duration × 0.0343 / 2?
+duration: Total time sound takes to go to the object and come back (in microseconds).
+
+0.0343: Speed of sound in air = 343 m/s = 0.0343 cm/µs.
+
+/2: Because the sound travels to the object and back, we divide by 2 to get one-way distance.
+
+ So, the formula gives distance in centimeters using the echo time and speed of sound.
